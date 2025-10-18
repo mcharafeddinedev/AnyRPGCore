@@ -21,8 +21,8 @@ The repository tracks my commits, experiments, and technical improvements to the
 - **UMA 2 successfully integrated** and rebuilt for character customization  
 - **Full demo scene** running without compile or runtime errors  
 - **Compatible with Unity 2021.3.45f2 LTS**  
-- ⚙️ Improved import stability, fixed missing references, and setup consistency  
-- 🧩 Preserved full AnyRPG + UMA system functionality for modular study and development  
+- Improved import stability, fixed missing references, and setup consistency
+- Preserved full AnyRPG + UMA system functionality for modular study and development  
 
 ---
 
