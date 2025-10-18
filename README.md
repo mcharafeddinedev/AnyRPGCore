@@ -1,4 +1,3 @@
-```markdown
 ![Unity](https://img.shields.io/badge/Unity-2021.3.45f2_LTS-blue)
 
 > Original project documentation: [README_original.md](README_original.md)
